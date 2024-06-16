@@ -25,7 +25,6 @@ The system consists of 3 microservices:
 - IAM (Service Identity and Access Management): Manages user data and authenticates users.
 - TM (Service Ticket Management): Manages tickets.
 
-````markdown
 ## Endpoints
 
 ### BFF
